@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/MathGame/obj/Debug/net8.0/scopedcss/projectbundle/MathGame.bundle.scp.css",
+      "PackagePath": "staticwebassets/MathGame.bundle.scp.css"
+    },
+    {
+      "Id": "/workspaces/MathGame/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/workspaces/MathGame/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/workspaces/MathGame/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/workspaces/MathGame/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MathGame.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MathGame.props",
+      "PackagePath": "build\\MathGame.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MathGame.props",
+      "PackagePath": "buildMultiTargeting\\MathGame.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MathGame.props",
+      "PackagePath": "buildTransitive\\MathGame.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
